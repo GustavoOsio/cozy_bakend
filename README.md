@@ -9,3 +9,4 @@ Recomendaciones para ejecutar el Backend Mawika:
     Nota: en caso que sea configuración local, crear la ruta en su equipo tomando como referencia la carpeta comprimida archivo.rar.
 7.	Seleccione el proyecto en Spring Tool y ejecute Run As -> Maven Install para descargar las dependencias y generar el compilado.
 8.	Para correr el proyecto seleccione la carpeta raíz, Run As o Debug As -> Spring Boot App.
+9.	Al mismo nivel de la carpeta crear una carpeta archivo y sbcarpeta video y photo
